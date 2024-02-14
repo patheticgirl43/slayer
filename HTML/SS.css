@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    font-style: Helvetica;
+}
+
+#AS{
+    opacity:0;
+    transition: opacity 230ms ease-in-out;
+}
+
+#AS:hover{
+    opacity: 1;
+}
+
+@keyframes animation{
+    from {
+
+    }
+    to{
+
+    }
+}

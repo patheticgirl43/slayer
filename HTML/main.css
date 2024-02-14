@@ -1,0 +1,72 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 32px;
+}
+
+h1 { 
+    color: red;
+    font-size: 3em;
+    text-align: center;
+    align-items: center;
+    border: solid black 2px;
+}
+
+body {
+    background-image: url(moss.jpg);
+    background-size: cover;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.image1 {
+    width: 50%;
+    height: auto;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover
+
+
+.navitem{
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 2px;
+    border-style: dashed;
+    color:brown;
+    background-color: brown;
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navigationpanel {
+    display:flex
+    justify-content: flex-end;
+}
+
+.para1 {
+    color: red;
+}
+
+#firsth2 {
+    color:blue;
+}
+
+#stj {
+    font-weight: bold;
+
+}
+
